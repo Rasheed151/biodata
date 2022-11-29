@@ -1,0 +1,22 @@
+body{
+background-color: #d2ec0c;
+  color: #050506;
+  font-family: "Open Sans", Arial;
+  font-size: 17px;
+  padding: 15px;
+  margin: 0;
+}
+h3 { text-align: center; }
+.Kontak{
+padding-left: 2cm;
+padding-top: 5cm;
+}
+.no2{
+  padding-left: 16cm;
+  padding-top: 0cm;
+  
+}
+img.ici{
+  float: left;
+  margin: 5px;
+}
